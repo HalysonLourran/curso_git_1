@@ -1,1 +1,0 @@
-print("Carro possui janela")
